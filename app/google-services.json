@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467903732066",
+    "firebase_url": "https://chat-f3f82.firebaseio.com",
+    "project_id": "chat-f3f82",
+    "storage_bucket": "chat-f3f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467903732066:android:6c0d95850cf9a1e687b43b",
+        "android_client_info": {
+          "package_name": "com.ethicaldigit.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467903732066-72328dcf1lggtalsiv3vrlmn68ford3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethicaldigit.chat",
+            "certificate_hash": "677dd4946b21577998baf7c1304e8e0107b5845a"
+          }
+        },
+        {
+          "client_id": "467903732066-3jnjsmm4fqji4pueapj6d19g1p6cv7uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf86pKFF4FYnP9cVVyLuuwlpTbZUV8nbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467903732066-3jnjsmm4fqji4pueapj6d19g1p6cv7uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
